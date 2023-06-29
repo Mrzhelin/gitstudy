@@ -7,7 +7,7 @@ let map = L.map("map", {
 
     center: [31, 179],
     zoom: 8,
-    minZoom: 2,
+    minZoom: 3,
     maxZoom: 18,
 });
 L.control.scale({
